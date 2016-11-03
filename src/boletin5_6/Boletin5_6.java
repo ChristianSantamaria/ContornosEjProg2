@@ -30,6 +30,7 @@ public class Boletin5_6 {
         else if (consumo > 1000)
             System.out.println("Primera necesidad");
         
+        
     }
     
 }
